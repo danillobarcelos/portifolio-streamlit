@@ -34,7 +34,7 @@ tecnologias = [
     {"arquivo": "assets/powerbi.png",    "nome": "Power BI"},
     {"arquivo": "assets/excel.png",      "nome": "Excel"},
     {"arquivo": "assets/dbeaver.png",    "nome": "DBeaver"},
-    {"arquivo": "assets/git.webp",        "nome": "Git"},
+    {"arquivo": "assets/git.png",       "nome": "Git"},
     {"arquivo": "assets/github.png",     "nome": "GitHub"},
 ]
 
